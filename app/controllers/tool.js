@@ -1,7 +1,7 @@
 import Ember from "ember";
 
 export default Ember.ArrayController.extend({
-  images: 1,
+  isFullScreenActive: false,
 
   actions: {
     increment: function() {
