@@ -1,0 +1,1 @@
+Es una idea pero como la aplicación es tan sencilla y el diseño tan homogéneo, molaría cambiar los colores al cambiar de vista con alguna animación sencilla guapa. Como hace inbox para indicarte que estas en una vista u otra
